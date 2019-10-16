@@ -1,2 +1,2 @@
 # Class_Sandbox
-Class Demo Project
+This is our class demo project.
